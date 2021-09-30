@@ -63,12 +63,13 @@ export default UpComingEvents
 const EventData = [
   {
     date: 'Sept. 30',
-    time: 'TBA',
-    title: 'Fireside Dialogue',
-    name: 'Dr. Christine Bierman',
-    handle: 'Professor of Geography',
+    time: '6:30 PM',
+    title: 'Tree Ring Lab',
+    name: 'Dr. Christine Biermann',
+    handle:
+      'Assistant Professor of Geography and Environmental Studies at UCCS and the Director of the Tree Ring Lab',
     image: '',
-    description: ``,
+    description: `With UCCS students and colleagues, Christine studies how climate change is affecting Colorado's ecosystems, and particularly its forests.`,
     tickets: '',
   },
   {
